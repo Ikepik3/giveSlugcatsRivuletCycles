@@ -31,11 +31,11 @@ namespace GiveSlugCatRivuletCycles
 
         void RainUpdateHook(On.RainCycle.orig_Update orig, RainCycle rain)
         {
-            //10560
-            var timeLeft = 6000;
+            
+            var timeLeft = 6000; // the time of a rivulet cycle (which is 2 minutes and 30 seconds)
 
-            rain.cycleLength = timeLeft;
-            rain.timer += 1;
+            rain.cycleLength = timeLeft; // Give the cycleLength the time of said cycle
+            rain.timer += 1; // assuming the code always run per tick, add one tick to the timer, a second
         }
     }
 }
