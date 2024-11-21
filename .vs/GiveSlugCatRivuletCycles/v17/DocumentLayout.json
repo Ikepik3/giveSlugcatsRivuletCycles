@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ikede\\Documents\\personalStuff\\RWmodding\\GiveRivuletCyclesToAllSlugCatsRepo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A10EC85F-1227-4CF7-B2F9-8C08B9FDF802}|GiveSlugCatRivuletCycles.csproj|c:\\users\\ikede\\documents\\personalstuff\\rwmodding\\giverivuletcyclestoallslugcatsrepo\\modoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10EC85F-1227-4CF7-B2F9-8C08B9FDF802}|GiveSlugCatRivuletCycles.csproj|solutionrelative:modoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10EC85F-1227-4CF7-B2F9-8C08B9FDF802}|GiveSlugCatRivuletCycles.csproj|c:\\users\\ikede\\documents\\personalstuff\\rwmodding\\giverivuletcyclestoallslugcatsrepo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10EC85F-1227-4CF7-B2F9-8C08B9FDF802}|GiveSlugCatRivuletCycles.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10EC85F-1227-4CF7-B2F9-8C08B9FDF802}|GiveSlugCatRivuletCycles.csproj|c:\\users\\ikede\\documents\\personalstuff\\rwmodding\\giverivuletcyclestoallslugcatsrepo\\rivuletcyclesmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10EC85F-1227-4CF7-B2F9-8C08B9FDF802}|GiveSlugCatRivuletCycles.csproj|solutionrelative:rivuletcyclesmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "player.cs",
+              "DocumentMoniker": "C:\\Users\\ikede\\Documents\\personalStuff\\RWmodding\\GiveRivuletCyclesToAllSlugCatsRepo\\player.cs",
+              "RelativeDocumentMoniker": "player.cs",
+              "ToolTip": "C:\\Users\\ikede\\Documents\\personalStuff\\RWmodding\\GiveRivuletCyclesToAllSlugCatsRepo\\player.cs",
+              "RelativeToolTip": "player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:16:17.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ikede\\Documents\\personalStuff\\RWmodding\\GiveRivuletCyclesToAllSlugCatsRepo\\ModOptions.cs",
+              "RelativeDocumentMoniker": "ModOptions.cs",
+              "ToolTip": "C:\\Users\\ikede\\Documents\\personalStuff\\RWmodding\\GiveRivuletCyclesToAllSlugCatsRepo\\ModOptions.cs",
+              "RelativeToolTip": "ModOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:16:00.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RivuletCyclesMain.cs",
+              "DocumentMoniker": "C:\\Users\\ikede\\Documents\\personalStuff\\RWmodding\\GiveRivuletCyclesToAllSlugCatsRepo\\RivuletCyclesMain.cs",
+              "RelativeDocumentMoniker": "RivuletCyclesMain.cs",
+              "ToolTip": "C:\\Users\\ikede\\Documents\\personalStuff\\RWmodding\\GiveRivuletCyclesToAllSlugCatsRepo\\RivuletCyclesMain.cs",
+              "RelativeToolTip": "RivuletCyclesMain.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:41:49.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

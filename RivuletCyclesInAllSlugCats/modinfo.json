@@ -1,0 +1,10 @@
+{
+  "id": "ikepike.RivuletCyclesForAllSlugcats",
+  "name": "Rivulet cycles for all slugcats",
+  "version": "1.0.0",
+  "authors": "ikepike", 
+  "description": "Give every slugcat campaign rivulet cycles.",
+  "requirements": [],
+  "requirements_names": [],
+  "checksum_override_version": true
+}
