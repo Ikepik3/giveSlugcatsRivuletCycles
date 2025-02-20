@@ -26,29 +26,37 @@ namespace GiveSlugCatRivuletCycles
        
 
         public const string PLUGIN_GUID = "ikepike.RivuletCyclesForAllSlugcats";
-        public const string PLUGIN_NAME = "Rivulet cycles for all slugcats";
+        public const string PLUGIN_NAME = "\"Ever felt like the campaigns were easy? WELL WHAT IF WE GAVE YOU THE LOWEST CYCLE?? \\n \\n A mod that makes every campaign have the rivulet cycles (which is 2 minutes and 30 seconds (6000 ticks in total!!!! WOW)) \\n \\n source code: https://github.com/Ikepik3/giveSlugcatsRivuletCycles\"";
         public const string PLUGIN_VERSION = "1.0.0";
+
+
+        public void Start()
+        {
+            On.RainCycle.Update += RainSetHook;
+        }
 
         public void OnEnable()
         {
 
             On.RainCycle.Update += RainUpdateHook;
-            
         }
 
-        void RainUpdateHook(On.RainCycle.orig_Update orig, RainCycle rain)
+        void RainSetHook(On.RainCycle.orig_Update orig, RainCycle rain)
         {
-            
             var timeLeft = 6000; // the time of a rivulet cycle (which is 2 minutes and 30 seconds)
 
             rain.cycleLength = timeLeft; // Give the cycleLength the time of said cycle
-            
+        }
+
+
+        void RainUpdateHook(On.RainCycle.orig_Update orig, RainCycle rain)
+        {
             rain.timer += 1; // assuming the code always run per tick, add one tick to the timer, a second in rain world is 20 ticks.
 
             Debug.Log("test");
             Debug.Log(rain.deathRainHasHit);
 
-            if (rain.timer == timeLeft+1000)
+            if (rain.timer == 7000)
             {
                 rain.deathRainHasHit = true;
                 rain.RainHit();
