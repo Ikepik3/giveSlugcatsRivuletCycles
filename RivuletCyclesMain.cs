@@ -34,6 +34,7 @@ Ever felt like the campaigns were easy? WELL WHAT IF WE GAVE YOU THE LOWEST CYCL
 source code: https://github.com/Ikepik3/giveSlugcatsRivuletCycles
 ";
 
+
         public const string PLUGIN_VERSION = "1.0.0";
 
 
