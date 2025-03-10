@@ -35,6 +35,7 @@ source code: https://github.com/Ikepik3/giveSlugcatsRivuletCycles
 ";
 
 
+
         public const string PLUGIN_VERSION = "1.0.0";
 
 
