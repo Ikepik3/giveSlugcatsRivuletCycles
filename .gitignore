@@ -3,7 +3,7 @@
 ################################################################################
 
 /.vs/GiveSlugCatRivuletCycles/FileContentIndex
-/bin/
-/obj/
-/RivuletCyclesInAllSlugCats/
-/Properties/
+/bin
+/obj
+/RivuletCyclesInAllSlugCats
+/Properties
